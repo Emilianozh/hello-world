@@ -6,3 +6,5 @@ This tutorial focuses mainly on Git and using GitHub
 This repository is built step by step in the tutorial.
 
 It now includes steps for GitHub
+
+Otra linea en blanco
